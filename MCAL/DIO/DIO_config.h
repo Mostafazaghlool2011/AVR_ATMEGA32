@@ -6,9 +6,8 @@
 */
 
 
-#ifndef STD_TYPES_H
-#define STD_TYPES_H
-
+#ifndef MCAL_DIO_CONFIG_H
+#define MCAL_DIO_CONFIG_H
 
 /* ================= Free Driver ================= */
 
