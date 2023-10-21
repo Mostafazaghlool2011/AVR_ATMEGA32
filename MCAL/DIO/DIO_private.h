@@ -6,8 +6,8 @@
 */
 
 
-#ifndef STD_TYPES_H
-#define STD_TYPES_H
+#ifndef MCAL_DIO_PRIVATE_H
+#define MCAL_DIO_PRIVATE_H
 
 
 #define PORTA		*((volatile u8 *)0x3B) 
