@@ -21,4 +21,7 @@ typedef signed long u32;
 typedef signed long long u64;
 
 
+#define NULL (void *)0
+
+
 #endif
