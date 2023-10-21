@@ -2,7 +2,7 @@
 		Author			: 	Mostafa Zaghlol
 		Date			:	20/10/2023
 		Version			:	V 1.0
-		Description		:	Standard types library
+		Description		:	DIO_private.h
 */
 
 
