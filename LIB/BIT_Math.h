@@ -15,7 +15,7 @@
 #define TOGG_BIT(REG,BIT) 					(REG) ^= (1 << (BIT))
 #define GET_BIT(REG,BIT) 					(((REG) >> (BIT)) & 1)
 #define SET_BYTE(REG,VAL) 					(REG) = (VAL)
-#define CONC_BYTE(B7,B6,B5,B4,B3,B2,B1,B0) 	(0B##B7##B6##B5##B4##B3##B2##B1##B0)
+#define CONC_BYTE(B7,B6,B5,B4,B3,B2,B1,B0) 			(0B##B7##B6##B5##B4##B3##B2##B1##B0)
 
 
 #endif
